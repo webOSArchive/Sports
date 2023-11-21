@@ -45,6 +45,12 @@ Sport.hockey = {
             value: "CAR",
             location: "Carolina",
             mascot: "Hurricanes"
+         }, {
+            name: "Columbus Blue Jackets",
+            group: "Eastern Conference",
+            value: "CLS",
+            location: "Columbus",
+            mascot: "Blue Jackets"
         }, {
             name: "Florida Panthers",
             group: "Eastern Conference",
@@ -112,12 +118,6 @@ Sport.hockey = {
             location: "Washington",
             mascot: "Capitals"
         }, {
-            name: "Winnipeg Jets",
-            group: "Eastern Conference",
-            value: "WIN",
-            location: "Winnipeg",
-            mascot: "Jets"
-        }, {
             name: "Anaheim Ducks",
             group: "Western Conference",
             value: "ANA",
@@ -135,12 +135,6 @@ Sport.hockey = {
             value: "CHI",
             location: "Chicago",
             mascot: "Blackhawks"
-        }, {
-            name: "Columbus Blue Jackets",
-            group: "Western Conference",
-            value: "CLS",
-            location: "Columbus",
-            mascot: "Blue Jackets"
         }, {
             name: "Colorado Avalanche",
             group: "Western Conference",
@@ -196,6 +190,12 @@ Sport.hockey = {
             location: "San Jose",
             mascot: "Sharks"
         }, {
+            name: "Seattle Kraken",
+            group: "Western Conference",
+            value: "SEA",
+            location: "Seattle",
+            mascot: "Kraken"
+        }, {
             name: "St. Louis Blues",
             group: "Western Conference",
             value: "STL",
@@ -207,6 +207,18 @@ Sport.hockey = {
             value: "VAN",
             location: "Vancouver",
             mascot: "Canucks"
+         }, {
+            name: "Vegas Golden Knights",
+            group: "Western Conference",
+            value: "LV",
+            location: "Las Vegas",
+            mascot: "Golden Knights"
+        }, {
+            name: "Winnipeg Jets",
+            group: "Western Conference",
+            value: "WIN",
+            location: "Winnipeg",
+            mascot: "Jets"
         }]
     }
 };
