@@ -40,11 +40,11 @@ Sport.basketball = {
             location: "Boston",
             mascot: "Celtics"
         }, {
-            name: "Charlotte Bobcats",
+            name: "Charlotte Hornets",
             group: "Eastern Conference",
             value: "CHA",
             location: "Charlotte",
-            mascot: "Bobcats"
+            mascot: "Hornets"
         }, {
             name: "Chicago Bulls",
             group: "Eastern Conference",
@@ -82,10 +82,10 @@ Sport.basketball = {
             location: "Milwaukee",
             mascot: "Bucks"
         }, {
-            name: "New Jersey Nets",
+            name: "Brooklyn Nets",
             group: "Eastern Conference",
-            value: "NJ",
-            location: "New Jersey",
+            value: "BK",
+            location: "Brooklyn",
             mascot: "Nets"
         }, {
             name: "New York Knicks",
