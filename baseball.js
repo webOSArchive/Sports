@@ -70,11 +70,11 @@ Sport.baseball = {
                 mascot: "White Sox",
                 mlb: "cha"
             }, {
-                name: "Cleveland Indians",
+                name: "Cleveland Guardians",
                 group: "American League Central",
                 value: "CLE",
                 location: "Cleveland",
-                mascot: "Indians",
+                mascot: "Guardians",
                 mlb: "cle"
             }, {
                 name: "Detroit Tigers",
@@ -134,12 +134,12 @@ Sport.baseball = {
                 mascot: "Braves",
                 mlb: "atl"
             }, {
-                name: "Florida Marlins",
+                name: "Miami Marlins",
                 group: "National League East",
-                value: "FLA",
-                location: "Florida",
+                value: "MIA",
+                location: "Miami",
                 mascot: "Marlins",
-                mlb: "flo"
+                mlb: "mia"
             }, {
                 name: "New York Mets",
                 group: "National League East",
